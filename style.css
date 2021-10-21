@@ -128,7 +128,7 @@ body {
    
 }
 
-.button:hover {
+.button:active {
 background-color: yellowgreen;
 border: 3px double cyan;
 color: lightcyan;
@@ -140,7 +140,7 @@ border: 1px dotted cyan;
 color: aqua;
 }
 
-.clear:hover {
+.clear:active {
 background: #03e9f4;
 border: 3px double cyan;
 color: mediumorchid;

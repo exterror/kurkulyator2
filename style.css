@@ -149,3 +149,15 @@ box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4,
 			0 0 200px #03e9f4;
 			-webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
 }  
+
+
+/* .clear:active {
+border: 3px double cyan;
+color: #03e9f4;
+background: mediumorchid;
+filter: hue-rotate(0deg);
+box-shadow: 0 0 5px mediumorchid, 0 0 25px mediumorchid, 0 0 50px mediumorchid,
+			0 0 200px mediumorchid;
+			-webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+}   */
+

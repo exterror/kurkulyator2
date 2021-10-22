@@ -157,20 +157,22 @@ outline: none;
 
 
 .button:visited {
+background-color: rgb(185, 231, 91);
 outline: none;
 text-decoration: none;
 border: none;
 }
 
 .button:active {
+background-color: rgb(185, 231, 91);
 outline: none;
 text-decoration: none;
 border: none;
 }
 
 .button:focus {
+background-color: rgb(185, 231, 91);
 outline: none;
-background: radial-gradient( #3a99be8f, rgb(68, 68, 68));
 text-decoration: none;
 color: lightcyan;
 filter: hue-rotate(110deg);
@@ -200,6 +202,7 @@ border: 3px double cyan;
 .clear:visited {
 border: 3px double cyan;
 color: mediumorchid;
+background-color: rgb(185, 231, 91);
 }  
 
 /* .clear:focus {

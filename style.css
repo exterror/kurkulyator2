@@ -170,6 +170,7 @@ border: none;
 
 .button:focus {
 outline: none;
+background: radial-gradient( #3a99be8f, rgb(68, 68, 68));
 text-decoration: none;
 color: lightcyan;
 filter: hue-rotate(110deg);

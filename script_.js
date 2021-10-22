@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let current = 0;
     let action = "";
     let actions = {
-		"%": " % ",
+        "%": " % ",
         "÷": " / ",
         "X": " * ",
         "−": " - ",

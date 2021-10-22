@@ -25,7 +25,7 @@ body {
     align-items: center;
     justify-content: center;
     vertical-align: center;
-    font-weight: lighter;
+    /* font-weight: lighter; */
     padding-top: 2.2rem; 
 	background: repeating-linear-gradient(-50deg, #EE7752, #E73C7E, #23A6D5, #23D5AB, #23A6D5, #23D5AB, #EE7752, #E73C7E, aqua, aquamarine, lightcyan, magenta, yellowgreen, salmon, transparent);
     background-size: 1200% 1200%; 
@@ -135,6 +135,13 @@ color: lightcyan;
 filter: hue-rotate(110deg);
 }
 
+.button:hover {
+background-color: yellowgreen;
+border: 3px double cyan;
+color: lightcyan;
+filter: hue-rotate(110deg);
+}
+
 .clear {
 border: 1px dotted cyan;
 color: aqua;
@@ -149,6 +156,17 @@ box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4,
 			0 0 200px #03e9f4;
 			-webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
 }  
+
+.clear:hover {
+background: #03e9f4;
+border: 3px double cyan;
+color: mediumorchid;
+filter: hue-rotate(0deg);
+box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4,
+			0 0 200px #03e9f4;
+			-webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+}  
+
 
 
 /* .clear:active {

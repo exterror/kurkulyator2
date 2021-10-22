@@ -19,8 +19,8 @@ body {
     font-family: 'Deutsch Gothic', decorative;
     background-color: transparent;
     min-height: 100vh;
-    max-width: 120%;
-    max-height: 120%;
+    max-width: 100%;
+    max-height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;

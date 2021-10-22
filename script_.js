@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let actions = {
         "%": " % ",
         "÷": " / ",
-        "❌": " * ",
+        "x": " * ",
         "−": " - ",
         "+": " + "
     };
